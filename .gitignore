@@ -1,3 +1,5 @@
 
 # FVM
 .fvm/
+
+.dart_tool/
